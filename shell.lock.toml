@@ -1,0 +1,13 @@
+[lock]
+background       = "#090907"
+background-alpha = 0.82
+text             = "#E9DFC8"
+placeholder      = "#8D826D"
+text-error       = "#C96655"
+border           = "#6E5225 #C99A3D 90deg"
+border-active    = "#C99A3D #F0D27B 90deg"
+border-error     = "#C96655"
+border-alpha     = 0.96
+border-width     = 2
+selection        = "#C99A3D"
+selection-alpha  = 0.42
